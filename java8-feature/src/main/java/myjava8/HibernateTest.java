@@ -5,8 +5,6 @@ import myjava8.model.Member;
 import myjava8.utils.HibernateUtils;
 import org.hibernate.Session;
 
-import java.util.Date;
-
 /**
  * @ClassName HibernateTest
  * @Description TODO

@@ -1,0 +1,15 @@
+1.Executor
+2.ExecutorService submit
+3.Callable=Runnable
+4.Executors
+5.ThreadPool
+6.Future
+
+六種線程池
+Fixed,Cache,Single,Schedule,WorkStealing,ForkJoin
+
+自定義Executor
+ThreadPoolExecutor
+
+多線程流
+ParallelStream
