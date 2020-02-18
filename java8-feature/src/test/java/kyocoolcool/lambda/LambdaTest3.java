@@ -2,7 +2,6 @@ package kyocoolcool.lambda;
 
 import org.junit.Test;
 
-import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

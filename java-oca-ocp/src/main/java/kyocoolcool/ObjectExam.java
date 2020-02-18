@@ -1,5 +1,8 @@
 package kyocoolcool;
 
+import java.util.Arrays;
+import java.util.List;
+
 /**
  * @ClassName ObjectExam
  * @Description TODO
@@ -10,6 +13,7 @@ package kyocoolcool;
 
 public class ObjectExam {
     public static void main(String[] args) {
-        ObjectExam objectExam = new ObjectExam();
+        List<String> list = Arrays.asList("one", "two");
+
     }
 }
