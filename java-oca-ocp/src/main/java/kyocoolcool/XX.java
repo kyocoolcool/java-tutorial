@@ -13,6 +13,13 @@ public class XX extends X{
         say();
     }
 
+    /**
+     * 主要啟動類
+     * @param args
+     * @return: void
+     * @author: Chris Chen https://blog.kyocoolcool.com
+     * @time: 2020/8/20 下午 11:05
+     */
     public static void main(String[] args) {
          XX xx = new XX();
          xx.A();
