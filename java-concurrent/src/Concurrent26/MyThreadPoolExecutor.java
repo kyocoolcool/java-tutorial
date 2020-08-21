@@ -15,7 +15,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 public class MyThreadPoolExecutor {
     private ThreadPoolExecutor pool = null;
-    public volatile String[] aa = {"aa","bb","cc","dd","ee","ff","gg","hh","ii","aa","bb","cc","dd","ee","ff","gg","hh","ii","aa","bb","cc","dd","ee","ff","gg","hh","ii"};
+    public volatile String[] aa = {"1","2","3","4","5","6","7","8","9","10","11"};
 
     /**
      * 线程池初始化方法
