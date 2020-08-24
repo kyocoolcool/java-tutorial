@@ -15,13 +15,13 @@ import java.nio.file.Paths;
 
 public class MkdirTest {
     public static void main(String[] args) throws IOException {
-//        final File file = new File("/Users/chris/Documents/hello/hello.md");
+//        final File file = new File("/Users/chris/Documents/hello.txt/hello.txt.md");
 //        final boolean amd = file.mkdir();
 //        System.out.println(amd);
-        final Path path = Paths.get("/Users/chris/Documents/hello/aaa.md");
-        final Path pathDir = Paths.get("/Users/chris/Documents/hello/bbb.md");
-        final Path path2 = Paths.get("/Users/chris/Documents/hello/bbb.md");
-        final Path path3 = Paths.get("/Users/chris/Documents/hello2/bbb.md");
+        final Path path = Paths.get("/Users/chris/Documents/hello.txt/aaa.md");
+        final Path pathDir = Paths.get("/Users/chris/Documents/hello.txt/bbb.md");
+        final Path path2 = Paths.get("/Users/chris/Documents/hello.txt/bbb.md");
+        final Path path3 = Paths.get("/Users/chris/Documents/hello2.txt/bbb.md");
 //        final Path directories = Files.createDirectories(path);
 //        final Path directories2 = Files.createDirectories(path2);
         final Path copy = Files.copy(path2, path3);

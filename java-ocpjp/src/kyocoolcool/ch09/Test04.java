@@ -13,7 +13,7 @@ import java.nio.file.Paths;
 
 public class Test04 {
     public static void main(String[] args) {
-        final Path path = Paths.get("/Users/chris/Documents/test/hello/技能樹.PNG");
+        final Path path = Paths.get("/Users/chris/Documents/test/hello.txt/技能樹.PNG");
         System.out.println(path.subpath(1, 3).getName(1).toAbsolutePath());
 //        System.out.println(path.toAbsolutePath());
 //        System.out.println(path.subpath(1, 3).getName(1));

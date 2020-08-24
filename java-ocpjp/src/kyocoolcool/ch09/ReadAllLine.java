@@ -23,10 +23,10 @@ public class ReadAllLine {
 //        System.out.println(Files.isDirectory(Paths.get("/Users/chris/git/java-tutorial/README.md")));
 //        System.out.println(Files.isSymbolicLink(Paths.get("/Users/chris/git/java-tutorial/README.md")));
 //        System.out.println(Files.isDirectory(Paths.get("/Users/chris/git/java-tutorial/")));
-//        System.out.println(Files.isHidden(Paths.get("/Users/chris/Documents/hello/.bbb.md")));
-//        System.out.println(Files.isHidden(Paths.get("/Users/chris/Documents/hello/aaa.md")));
-//        System.out.println(Files.isReadable(Paths.get("/Users/chris/Documents/hello/aaa.md")));
-//        System.out.println(Files.isExecutable(Paths.get("/Users/chris/Documents/hello")));
+//        System.out.println(Files.isHidden(Paths.get("/Users/chris/Documents/hello.txt/.bbb.md")));
+//        System.out.println(Files.isHidden(Paths.get("/Users/chris/Documents/hello.txt/aaa.md")));
+//        System.out.println(Files.isReadable(Paths.get("/Users/chris/Documents/hello.txt/aaa.md")));
+//        System.out.println(Files.isExecutable(Paths.get("/Users/chris/Documents/hello.txt")));
 
     }
 }

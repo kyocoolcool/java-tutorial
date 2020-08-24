@@ -17,7 +17,7 @@ public class LambdaTest2 {
         System.out.println(a);
         final Stream<Integer> integerStream = Stream.of(1, 2, 3);
         System.out.println(integerStream.count());
-        final Stream<String> st = Stream.generate(()->"hello").limit(4);
+        final Stream<String> st = Stream.generate(()->"hello.txt").limit(4);
         System.out.println(st.count());
     }
 }

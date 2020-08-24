@@ -12,8 +12,8 @@ import java.nio.file.Paths;
  **/
 public class Test {
     public static void main(String[] args) throws IOException {
-        final Path path = Paths.get("/Users/chris/git/java-tutorial/java-ocpjp/src/kyocoolcool/exam/exam22/hello");
-        final Path path1 = Paths.get("/Users/chris/git/java-tutorial/java-ocpjp/src/kyocoolcool/exam/hello2");
+        final Path path = Paths.get("/Users/chris/git/java-tutorial/java-ocpjp/src/kyocoolcool/exam/exam22/hello.txt");
+        final Path path1 = Paths.get("/Users/chris/git/java-tutorial/java-ocpjp/src/kyocoolcool/exam/hello2.txt");
         Files.copy(path, path1);
     }
 }

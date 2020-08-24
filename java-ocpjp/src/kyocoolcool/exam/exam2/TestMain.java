@@ -9,17 +9,17 @@ import java.util.function.Predicate;
  **/
 public class TestMain {
     public static void main(String[] args) {
-//        final boolean hello = new TestIterface() {
+//        final boolean hello.txt = new TestIterface() {
 //            @Override
-//            public boolean hello(String hello) {
-//                return hello.length() > 4 && hello.length() < 10;
+//            public boolean hello.txt(String hello.txt) {
+//                return hello.txt.length() > 4 && hello.txt.length() < 10;
 //            }
-//        }.hello("hello");
+//        }.hello.txt("hello.txt");
 //
-//        System.out.println(hello);
+//        System.out.println(hello.txt);
 
 //        final TestIterface testIterface =(String s) -> s.length() < 10;
-//        System.out.println(testIterface.hello("1111111111111111"));
+//        System.out.println(testIterface.hello.txt("1111111111111111"));
         final Predicate<String> stringFilter = (String x) -> x.length() > 10;
         final TestIterface stringFilter2 = (String x) -> x.length() > 10;
         System.out.println(stringFilter2.hello("11111111111111111"));

@@ -38,7 +38,7 @@ public class FinalTest {
 
     public static void main(String[] args) {
         final FinalTest finalTest = new FinalTest();
-//        finalTest.setA("hello");
+//        finalTest.setA("hello.txt");
 //        finalTest.setB(100);
         System.out.println(finalTest);
     }

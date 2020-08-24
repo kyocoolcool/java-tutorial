@@ -10,7 +10,7 @@ package kyocoolcool.ch01;
 
 public class StaticNest {
      public static class Inner {
-         public String x = "hello world";
+         public String x = "hello.txt world";
 
          public void good() {
 

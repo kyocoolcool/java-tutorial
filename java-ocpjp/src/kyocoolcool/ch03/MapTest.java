@@ -18,7 +18,7 @@ public class MapTest {
             return x.length() > y.length() ? x : y;
         };
         final HashMap<String, String> map = new HashMap<>();
-        map.put("hello", "hello today");
+        map.put("hello", "hello.txt today");
         map.put("nice", "nice today");
         final String merge = map.merge("hello", "good morning", biFunction);
         System.out.println(merge);

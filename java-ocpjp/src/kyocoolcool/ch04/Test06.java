@@ -12,8 +12,8 @@ import java.util.stream.Stream;
 
 public class Test06 {
     public static void main(String[] args) {
-//        final Stream<String> generate = Stream.generate(() -> "hello");
-        final Stream<String> generate = Stream.iterate("a",x -> x+"hello");
+//        final Stream<String> generate = Stream.generate(() -> "hello.txt");
+        final Stream<String> generate = Stream.iterate("a",x -> x+"hello.txt");
         final boolean b = generate.allMatch(String::isEmpty);
         System.out.println(b);
     }

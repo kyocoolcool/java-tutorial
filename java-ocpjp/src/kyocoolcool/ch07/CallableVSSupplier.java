@@ -75,6 +75,6 @@ public class CallableVSSupplier {
             throw new IOException();
 //            return null;
         });
-//        System.out.println(hello.getClass());
+//        System.out.println(hello.txt.getClass());
     }
 }

@@ -38,17 +38,17 @@ public class AutoCloseTest {
     }
 
     public void main() {
-//        try (Hello hello = new Hello()) {
+//        try (Hello hello.txt = new Hello()) {
 //            System.out.println("Hello in");
 //        }
-//        try (Hello2 hello = new Hello2()) {
+//        try (Hello2 hello.txt = new Hello2()) {
 //            System.out.println("Hello2 in");
 //        } catch (IOException e) {
-//            System.out.println("hello2 exception");
+//            System.out.println("hello2.txt exception");
 //        }
         try (Hello3 hello = new Hello3()) {
             System.out.println("Hello3 in");
-            throw new IllegalStateException("hello 3 iiiii");
+            throw new IllegalStateException("hello.txt 3 iiiii");
 //        } catch (ArithmeticException e) {
 //            System.out.println(e.getMessage());
 //            for (Throwable throwable : e.getSuppressed()) {

@@ -16,7 +16,7 @@ import java.nio.file.StandardCopyOption;
 
 public class Test11 {
     public static void main(String[] args) throws IOException {
-        final Path path = Paths.get("/Users/chris/Documents/test/hello/技能樹.PNG");
+        final Path path = Paths.get("/Users/chris/Documents/test/hello.txt/技能樹.PNG");
         final Path path2 = Paths.get("/Users/chris/Documents/test/aaaa/tree.PNG");
         final Path copy = Files.copy(path, path2, StandardCopyOption.COPY_ATTRIBUTES);
         System.out.println(Files.isSameFile(path,path2));

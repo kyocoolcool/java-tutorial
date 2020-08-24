@@ -66,7 +66,7 @@ public class Test21 implements Serializable{
         final ArrayList<Test21> animals = new ArrayList<>();
         final Test21 test21 = new Test21();
         final ArrayList arrayList = new ArrayList();
-        final Dog dog = new Dog(("hello"));
+        final Dog dog = new Dog(("hello.txt"));
         arrayList.add(dog);
         test21.setFriends(arrayList);
         animals.add(test21);
