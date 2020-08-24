@@ -32,11 +32,11 @@ public class CoucurrentTest {
         @Override
         public void run() {
             System.out.println("bb run");
-//            try {
-//                Thread.sleep(5000);
-//            } catch (InterruptedException e) {
-//                e.printStackTrace();
-//            }
+            try {
+                Thread.sleep(5000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
         }
     }
 

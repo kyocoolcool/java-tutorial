@@ -1,4 +1,4 @@
-package kyocoolcool.exam.exam26;
+package kyocoolcool.exam.exam25;
 
 /**
  * @ClassName Test
