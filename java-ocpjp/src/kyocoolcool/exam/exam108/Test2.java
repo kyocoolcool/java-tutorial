@@ -1,7 +1,5 @@
 package kyocoolcool.exam.exam108;
 
-import com.sun.jmx.remote.internal.ArrayQueue;
-
 /**
  * @author Chris Chen https://blog.kyocoolcool.com
  * @version 1.0
@@ -9,12 +7,12 @@ import com.sun.jmx.remote.internal.ArrayQueue;
  **/
 public class Test2 {
     public static void main(String[] args) {
-        final ArrayQueue<Integer> integers = new ArrayQueue<Integer>(10);
-        integers.add(1000);
-        integers.add(2000);
-        integers.add(3000);
-        final Integer integer = integers.get(0);
-        System.out.println(integer);
+//        final ArrayQueue<Integer> integers = new ArrayQueue<Integer>(10);
+//        integers.add(1000);
+//        integers.add(2000);
+//        integers.add(3000);
+//        final Integer integer = integers.get(0);
+//        System.out.println(integer);
 
     }
 }
