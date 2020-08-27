@@ -1,0 +1,1 @@
+C Arrays.asList 必須要new ArrayList才能使用add方法
