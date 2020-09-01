@@ -2,7 +2,7 @@ package kyocoolcool.genericTest;
 
 /**
  * @ClassName genericTest.genericTest
- * @Description TODO
+ *
  * @Author chris
  * @Date 2019-03-29 09:21
  * @Version 1.0

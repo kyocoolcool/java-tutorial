@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  * @ClassName ScannerTest
- * @Description TODO
+ * 
  * @Author Chris Chen
  * @Date 2019-06-28 15:12
  * @Version 1.0

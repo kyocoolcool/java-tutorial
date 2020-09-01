@@ -2,7 +2,7 @@ package ocajp.collection;
 
 /**
  * @ClassName MyMoney
- * @Description TODO
+ * 
  * @Author Chris Chen
  * @Date 2019-06-11 17:33
  * @Version 1.0

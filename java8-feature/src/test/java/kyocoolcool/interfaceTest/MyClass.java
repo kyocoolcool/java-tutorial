@@ -2,7 +2,7 @@ package kyocoolcool.interfaceTest;
 
 /**
  * @ClassName MyClass
- * @Description TODO
+ * 
  * @Author chris
  * @Date 2019-04-21 18:34
  * @Version 1.0

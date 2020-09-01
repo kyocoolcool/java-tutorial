@@ -4,7 +4,7 @@ import java.util.Vector;
 
 /**
  * @ClassName LintTest
- * @Description TODO
+ *
  * @Author Chris Chen
  * @Date 2019-06-28 15:43
  * @Version 1.0

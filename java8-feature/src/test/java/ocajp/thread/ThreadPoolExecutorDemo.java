@@ -4,7 +4,7 @@ import java.util.concurrent.*;
 
 /**
  * @ClassName ThreadPoolExecutorDemo
- * @Description TODO
+ * 
  * @Author Chris Chen
  * @Date 2019-06-03 17:29
  * @Version 1.0

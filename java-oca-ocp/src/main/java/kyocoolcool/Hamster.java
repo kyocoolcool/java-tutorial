@@ -2,7 +2,7 @@ package kyocoolcool;
 
 /**
  * @ClassName Hamster
- * @Description TODO
+ * 
  * @Author Chris Chen
  * @Date 2019/11/29 6:41 PM
  * @Version 1.0

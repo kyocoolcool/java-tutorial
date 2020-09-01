@@ -9,7 +9,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 /**
  * @ClassName Lotto2
- * @Description TODO
+ *
  * @Author Chris Chen
  * @Date 2019-06-03 19:23
  * @Version 1.0

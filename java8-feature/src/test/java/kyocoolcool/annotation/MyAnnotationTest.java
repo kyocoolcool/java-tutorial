@@ -2,7 +2,7 @@ package kyocoolcool.annotation;
 
 /**
  * @ClassName MyAnnotationTest
- * @Description TODO
+ *
  * @Author chris
  * @Date 2019-04-22 22:12
  * @Version 1.0

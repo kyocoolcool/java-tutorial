@@ -2,7 +2,7 @@ package myjava8;
 
 /**
  * @ClassName StringTest
- * @Description TODO
+ * 
  * @Author Chris Chen
  * @Date 2019-06-27 14:45
  * @Version 1.0

@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 /**
  * @ClassName DerbyJDBCTest
- * @Description TODO
+ * 
  * @Author Chris Chen
  * @Date 2019-06-17 11:33
  * @Version 1.0

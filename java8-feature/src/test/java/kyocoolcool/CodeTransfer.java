@@ -6,7 +6,7 @@ import java.util.Date;
 
 /**
  * @ClassName CodeTransfer
- * @Description TODO
+ * 
  * @Author Chris Chen
  * @Date 2019-05-13 10:13
  * @Version 1.0

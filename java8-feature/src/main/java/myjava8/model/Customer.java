@@ -8,7 +8,7 @@ import java.util.Objects;
 
 /**
  * @ClassName Customer
- * @Description TODO
+ *
  * @Author Chris Chen
  * @Date 2019-06-19 10:33
  * @Version 1.0

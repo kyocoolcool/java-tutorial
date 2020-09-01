@@ -5,7 +5,7 @@ import java.util.concurrent.Callable;
 
 /**
  * @ClassName Lotto
- * @Description TODO
+ *
  * @Author Chris Chen
  * @Date 2019-06-03 16:50
  * @Version 1.0

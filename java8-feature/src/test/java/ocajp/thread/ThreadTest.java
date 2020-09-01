@@ -2,7 +2,7 @@ package ocajp.thread;
 
 /**
  * @ClassName ThreadTest
- * @Description TODO
+ * 
  * @Author Chris Chen
  * @Date 2019-06-03 10:43
  * @Version 1.0

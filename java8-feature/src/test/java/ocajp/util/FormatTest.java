@@ -8,7 +8,7 @@ import java.util.Formatter;
 
 /**
  * @ClassName FormatTest
- * @Description TODO
+ *
  * @Author Chris Chen
  * @Date 2019-06-28 13:33
  * @Version 1.0

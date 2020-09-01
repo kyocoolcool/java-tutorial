@@ -2,7 +2,7 @@ package sample;
 
 /**
  * @ClassName Animal
- * @Description TODO
+ *
  * @Author Chris Chen
  * @Date 2019-07-24 15:00
  * @Version 1.0

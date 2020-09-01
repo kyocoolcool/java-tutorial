@@ -2,7 +2,7 @@ package myjava8;
 
 /**
  * @ClassName Person
- * @Description TODO
+ * 
  * @Author chris
  * @Date 2019-02-20 10:40
  * @Version 1.0

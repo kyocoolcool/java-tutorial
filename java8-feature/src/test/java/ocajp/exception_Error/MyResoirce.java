@@ -2,7 +2,7 @@ package ocajp.exception_Error;
 
 /**
  * @ClassName MyResoirce
- * @Description TODO
+ * 
  * @Author Chris Chen
  * @Date 2019-06-03 10:03
  * @Version 1.0

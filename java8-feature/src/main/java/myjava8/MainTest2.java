@@ -3,7 +3,7 @@ package myjava8;
 
 /**
  * @ClassName MainTest
- * @Description TODO
+ * 
  * @Author Chris Chen
  * @Date 2019-06-20 10:26
  * @Version 1.0

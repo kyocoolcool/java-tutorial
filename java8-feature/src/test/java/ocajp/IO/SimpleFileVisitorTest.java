@@ -6,7 +6,7 @@ import java.nio.file.attribute.BasicFileAttributes;
 
 /**
  * @ClassName SimpleFileVisitorTest
- * @Description TODO
+ * 
  * @Author Chris Chen
  * @Date 2019-06-17 10:33
  * @Version 1.0

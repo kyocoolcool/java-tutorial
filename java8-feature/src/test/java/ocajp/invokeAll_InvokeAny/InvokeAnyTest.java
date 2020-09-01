@@ -9,7 +9,7 @@ import java.util.concurrent.*;
 
 /**
  * @ClassName InvokeAnyTest
- * @Description TODO
+ *
  * @Author Chris Chen
  * @Date 2019-06-10 11:09
  * @Version 1.0

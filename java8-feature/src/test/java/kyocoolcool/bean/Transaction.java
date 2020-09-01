@@ -2,7 +2,7 @@ package kyocoolcool.bean;
 
 /**
  * @ClassName Transaction
- * @Description TODO
+ * 
  * @Author chris
  * @Date 2019-04-08 19:37
  * @Version 1.0

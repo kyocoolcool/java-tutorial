@@ -8,7 +8,7 @@ import java.util.Objects;
 
 /**
  * @ClassName Member
- * @Description TODO
+ *
  * @Author Chris Chen
  * @Date 2019-06-19 10:34
  * @Version 1.0

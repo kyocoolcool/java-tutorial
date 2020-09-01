@@ -2,7 +2,7 @@ package kyocoolcool;
 
 /**
  * @ClassName FruitGenerator
- * @Description TODO
+ *
  * @Author chris
  * @Date 2019-03-25 00:16
  * @Version 1.0

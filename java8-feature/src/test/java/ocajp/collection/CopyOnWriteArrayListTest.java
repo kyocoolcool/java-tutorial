@@ -4,7 +4,7 @@ import java.util.concurrent.CopyOnWriteArrayList;
 
 /**
  * @ClassName CopyOnWriteArrayListTest
- * @Description TODO
+ *
  * @Author Chris Chen
  * @Date 2019-06-12 13:43
  * @Version 1.0

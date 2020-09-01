@@ -2,7 +2,7 @@ package ocajp;
 
 /**
  * @ClassName MultiDimensionalArray
- * @Description TODO
+ *
  * @Author Chris Chen
  * @Date 2019-07-09 17:30
  * @Version 1.0

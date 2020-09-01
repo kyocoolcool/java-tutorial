@@ -2,7 +2,7 @@ package ocajp.extend;
 
 /**
  * @ClassName SendFactory
- * @Description TODO
+ *
  * @Author Chris Chen
  * @Date 2019-05-30 14:57
  * @Version 1.0

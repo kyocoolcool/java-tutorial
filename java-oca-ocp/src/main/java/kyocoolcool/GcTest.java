@@ -2,7 +2,7 @@ package kyocoolcool;
 
 /**
  * @ClassName GcTest
- * @Description TODO
+ * 
  * @Author Chris Chen
  * @Date 2019/11/14 11:06 AM
  * @Version 1.0

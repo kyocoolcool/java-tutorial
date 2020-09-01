@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * @ClassName GenericEntend
- * @Description TODO
+ *
  * @Author chris
  * @Date 2019-03-29 09:22
  * @Version 1.0

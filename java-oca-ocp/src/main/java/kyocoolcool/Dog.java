@@ -2,7 +2,7 @@ package kyocoolcool;
 
 /**
  * @ClassName Dog
- * @Description TODO
+ * 
  * @Author Chris Chen
  * @Date 2019/11/12 6:01 PM
  * @Version 1.0

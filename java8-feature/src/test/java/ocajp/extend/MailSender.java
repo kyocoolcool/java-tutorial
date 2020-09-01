@@ -2,7 +2,7 @@ package ocajp.extend;
 
 /**
  * @ClassName SmsSender
- * @Description TODO
+ * 
  * @Author Chris Chen
  * @Date 2019-05-30 14:33
  * @Version 1.0

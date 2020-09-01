@@ -4,7 +4,7 @@ import org.junit.Test;
 
 /**
  * @ClassName DecimalFormat
- * @Description TODO
+ *
  * @Author Chris Chen
  * @Date 2019-06-28 09:26
  * @Version 1.0

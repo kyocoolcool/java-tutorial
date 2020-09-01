@@ -11,7 +11,7 @@ import java.util.concurrent.*;
 
 /**
  * @ClassName ocajp.InvokeAllTest
- * @Description TODO
+ * 
  * @Author Chris Chen
  * @Date 2019-06-10 10:33
  * @Version 1.0

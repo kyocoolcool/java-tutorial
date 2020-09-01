@@ -6,7 +6,7 @@ import org.hibernate.cfg.Configuration;
 
 /**
  * @ClassName HibernateUtils
- * @Description TODO
+ *
  * @Author Chris Chen
  * @Date 2019-06-19 10:39
  * @Version 1.0

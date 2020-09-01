@@ -2,7 +2,7 @@ package kyocoolcool;
 
 /**
  * @ClassName InterfaceTestImplment
- * @Description TODO
+ * 
  * @Author Chris Chen
  * @Date 2019/11/11 4:10 PM
  * @Version 1.0

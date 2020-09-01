@@ -2,7 +2,7 @@ package kyocoolcool;
 
 /**
  * @ClassName DataType
- * @Description TODO
+ * 
  * @Author Chris Chen
  * @Date 2019/11/14 5:23 PM
  * @Version 1.0

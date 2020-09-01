@@ -9,7 +9,7 @@ import java.util.Date;
 
 /**
  * @ClassName BeanCopyTest
- * @Description TODO
+ *
  * @Author Chris Chen
  * @Date 2019-05-04 08:47
  * @Version 1.0

@@ -4,7 +4,7 @@ import java.util.function.Predicate;
 
 /**
  * @ClassName PredicateTest
- * @Description TODO
+ * 
  * @Author Chris Chen
  * @Date 2019/11/12 4:35 PM
  * @Version 1.0

@@ -7,7 +7,7 @@ import org.hibernate.Session;
 
 /**
  * @ClassName HibernateTest
- * @Description TODO
+ *
  * @Author Chris Chen
  * @Date 2019-06-19 10:41
  * @Version 1.0

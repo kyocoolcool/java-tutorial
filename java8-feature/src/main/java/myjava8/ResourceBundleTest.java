@@ -5,7 +5,7 @@ import java.util.ResourceBundle;
 
 /**
  * @ClassName ResourceBundleTest
- * @Description TODO
+ *
  * @Author Chris Chen
  * @Date 2019-06-28 17:29
  * @Version 1.0

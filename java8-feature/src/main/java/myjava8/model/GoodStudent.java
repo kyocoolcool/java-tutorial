@@ -7,7 +7,7 @@ import java.util.Date;
 
 /**
  * @ClassName GoodStudent
- * @Description TODO
+ *
  * @Author Chris Chen
  * @Date 2019-05-01 23:19
  * @Version 1.0

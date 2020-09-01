@@ -2,7 +2,7 @@ package ocajp.thread;
 
 /**
  * @ClassName Buy
- * @Description TODO
+ *
  * @Author Chris Chen
  * @Date 2019-06-03 13:46
  * @Version 1.0

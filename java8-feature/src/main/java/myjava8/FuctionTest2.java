@@ -6,7 +6,7 @@ import java.util.function.Function;
 
 /**
  * @ClassName FuctionTest2
- * @Description TODO
+ *
  * @Author chris
  * @Date 2019-02-19 18:22
  * @Version 1.0
