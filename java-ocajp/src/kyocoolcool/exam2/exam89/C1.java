@@ -2,7 +2,7 @@ package kyocoolcool.exam2.exam89;
 
 /**
  * @ClassName C1
- * @Description TODO
+ *
  * @Author Chris Chen
  * @Date 2020/2/23 11:42 PM
  * @Version 1.0

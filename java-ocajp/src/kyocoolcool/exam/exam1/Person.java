@@ -2,7 +2,7 @@ package kyocoolcool.exam.exam1;
 
 /**
  * @ClassName Person
- * @Description TODO
+ * 
  * @Author Chris Chen
  * @Date 2020/2/5 3:36 PM
  * @Version 1.0

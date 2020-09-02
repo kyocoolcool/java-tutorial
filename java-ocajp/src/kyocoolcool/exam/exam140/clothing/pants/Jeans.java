@@ -4,7 +4,7 @@ import static kyocoolcool.exam.exam140.clothing.Shirt.getColor;
 
 /**
  * @ClassName Jeans
- * @Description TODO
+ * 
  * @Author Chris Chen
  * @Date 2020/2/20 4:55 PM
  * @Version 1.0
