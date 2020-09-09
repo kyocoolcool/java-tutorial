@@ -19,6 +19,6 @@ public class Test {
         ZonedDateTime arrive = ZonedDateTime.of(2015, 1, 15, 9, 0, 0, 0,
                 ZoneId.of("UTC-5"));
         long hrs = ChronoUnit.HOURS.between(depart, arrive); //line n1
-        log.info("Travel time is" + hrs + "hours");
+//        log.info("Travel time is" + hrs + "hours");
     }
 }
