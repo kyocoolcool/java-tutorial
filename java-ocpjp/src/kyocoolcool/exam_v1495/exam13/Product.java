@@ -7,7 +7,7 @@ package kyocoolcool.exam_v1495.exam13;
  **/
 public class Product {
     interface MoveAble {
-        public void move();
+         void move();
     }
 
     MoveAble move = new MoveAble(){

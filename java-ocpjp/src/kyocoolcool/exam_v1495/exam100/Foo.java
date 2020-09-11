@@ -36,11 +36,12 @@ public class Foo<K, V> {
 
     public static void main(String[] args) {
 //        final Foo<String, String> hello_world = Foo.<String>twice("Hello World");
-//        final Foo<Object, Object> steve = new Foo<>("Steve", 100);
+        final Foo<Object, Object> steve = new Foo<Object, Object>("Steve", 100);
 //        System.out.println(steve);
 //        System.out.println(hello_world);
 //        final Foo<String, String> stringStringFoo = new Foo<>("John", "A");
-        final Foo<Object, Integer> objectObjectFoo = new Foo<Object, Integer>("Steve",100);
-        System.out.println(objectObjectFoo);
+//        final Foo<Object, Integer> objectObjectFoo = new Foo<Object, Integer>("Steve",100);
+//        System.out.println(objectObjectFoo);
+        System.out.println(steve);
     }
 }

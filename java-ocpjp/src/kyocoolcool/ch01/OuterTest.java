@@ -10,9 +10,9 @@ package kyocoolcool.ch01;
 
 public class OuterTest {
     public static void main(String[] args) {
-        final Outer outer = new Outer();
-        final Outer.Inner inner = outer.new Inner();
-//        inner.countDown();
-        System.out.println(inner.count);
+//        final Outer outer = new Outer();
+//        final Outer.Inner inner = outer.new Inner();
+////        inner.countDown();
+//        System.out.println(inner.count);
     }
 }

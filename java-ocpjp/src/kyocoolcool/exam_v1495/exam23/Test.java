@@ -9,8 +9,8 @@ import java.io.Console;
  **/
 public class Test {
     public static void main(String[] args) {
-        final Console console = System.console();
-        final char[] chars = console.readPassword("Enter password:");
-        final String s = new String(chars);
+         Console console = System.console();
+         char[] chars = console.readPassword("Enter password:");
+         String s = new String(chars);
     }
 }

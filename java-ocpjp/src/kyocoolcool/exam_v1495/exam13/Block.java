@@ -12,7 +12,7 @@ public class Block {
         int locate;
 
         public Counter() {
-            this.locate = bno;
+            locate = bno;
         }
 
 //        public static void main(String[] args) {
